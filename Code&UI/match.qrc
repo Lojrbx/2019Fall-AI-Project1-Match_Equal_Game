@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>nothing.jpg</file>
+    <file>Match_heng.jpg</file>
+    <file>Match.jpg</file>
+  </qresource>
+</RCC>

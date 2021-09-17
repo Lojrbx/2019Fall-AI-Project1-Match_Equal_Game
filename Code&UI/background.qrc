@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/newprefix2">
+        <file>blue.jpeg</file>
+        <file>metal.jpg</file>
+        <file>bk.jpg</file>
+        <file>purple.jpg</file>
+        <file>mt.jpg</file>
+    </qresource>
+</RCC>
